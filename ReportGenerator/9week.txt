@@ -1,0 +1,4 @@
+ - 9 주차 주간보고 -
+부서 : Programming Python
+이름 : Tina
+업무 요약 : 

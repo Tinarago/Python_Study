@@ -10,4 +10,4 @@ def profile_default(name, age=17, main_lang="Python"):
         .format(name, age, main_lang))
 
 profile_default("Tina")
-profile_default("Lily")
+profile_default("Lily", 25)
